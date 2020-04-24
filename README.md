@@ -1,5 +1,5 @@
-## Welcome to My Website!
-<button name="button" onclick="https://manderzzzz.github.io"> Home</button>
+[Link Here]: https://manderzzzz.github.io/home.html
+## Amanda Chang | Homepage
 You can use the [editor on GitHub](https://github.com/manderzzzz/manderzzzz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
